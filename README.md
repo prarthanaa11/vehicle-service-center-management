@@ -75,7 +75,7 @@ Install the following before running the project:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/prarthanaa11/vehicle-service-center.git
+git clone https://github.com/prarthanaa11/vehicle-service-center-management.git
 cd vehicle-service-center
 ```
 
